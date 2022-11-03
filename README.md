@@ -1,5 +1,7 @@
 ## Entry for EarnWeb3 bounty | Thirdweb
 
+Thirdweb contract dashboard: https://thirdweb.com/goerli/0xC361464340eE7e10F6876271f4CD626973210E2d/
+
 Contract address: https://goerli.etherscan.io/address/0xC361464340eE7e10F6876271f4CD626973210E2d
 
 Build with thirdweb's ContractKit. Create a custom smart contract in Solidity using thirdweb's ContractKit. 
