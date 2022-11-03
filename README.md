@@ -13,7 +13,7 @@ It will look something like this
 
 ![My Remote Image](https://i.imgur.com/Wa3bbk3.png)
 
-## Getting Started
+## Getting Started with ThirdWeb projects
 
 Create a project using this example:
 
