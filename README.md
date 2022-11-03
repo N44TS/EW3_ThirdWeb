@@ -1,3 +1,15 @@
+## Entry for EarnWeb3 bounty | Thirdweb
+
+Build with thirdweb's ContractKit. Create a custom smart contract in Solidity using thirdweb's ContractKit. 
+
+Create a new contract and deploy it with 
+```bash
+npx thirdweb deploy
+```
+Check out your own contract dashboard, where you can call any function on your contract, and view the results and view a live-updating feed of all events emitted by your contract. 
+It will look something like this
+![My Remote Image](https://i.imgur.com/Wa3bbk3.png)
+
 ## Getting Started
 
 Create a project using this example:
