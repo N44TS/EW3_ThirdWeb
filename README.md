@@ -1,5 +1,7 @@
 ## Entry for EarnWeb3 bounty | Thirdweb
 
+Contract address: https://goerli.etherscan.io/address/0xC361464340eE7e10F6876271f4CD626973210E2d
+
 Build with thirdweb's ContractKit. Create a custom smart contract in Solidity using thirdweb's ContractKit. 
 
 Create a new contract and deploy it with 
@@ -8,6 +10,7 @@ npx thirdweb deploy
 ```
 Check out your own contract dashboard, where you can call any function on your contract, and view the results and view a live-updating feed of all events emitted by your contract. 
 It will look something like this
+
 ![My Remote Image](https://i.imgur.com/Wa3bbk3.png)
 
 ## Getting Started
