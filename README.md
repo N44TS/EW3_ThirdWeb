@@ -4,6 +4,8 @@ Thirdweb contract dashboard: https://thirdweb.com/goerli/0xC361464340eE7e10F6876
 
 Contract address: https://goerli.etherscan.io/address/0xC361464340eE7e10F6876271f4CD626973210E2d
 
+(I only had enough Goerli to deploy one custom contract for now) 	
+
 Build with thirdweb's ContractKit. Create a custom smart contract in Solidity using thirdweb's ContractKit. 
 
 Create a new contract and deploy it with 
